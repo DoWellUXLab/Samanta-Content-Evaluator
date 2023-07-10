@@ -11,7 +11,7 @@ Click here to read the documention [Documentation](https://documenter.getpostman
 
 To begin using the DoWell API, you need to generate an API key. The process is seamless and straightforward. Follow the steps below to create your API key:
 
-1. Visit the DoWell website at [www.dowelluxlivinglab.com](https://dowellstore.org/).
+1. Visit the DoWell website at [www.uxlivinglab.com](https://dowellstore.org/).
 2. Navigate to the API section and click on "Get API Key."
 
 ## API Description
