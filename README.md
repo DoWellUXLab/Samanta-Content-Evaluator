@@ -1,4 +1,4 @@
-# Samanta from DoWell UX Living Lab
+# Samanta Content Evaluator from DoWell UX Living Lab
 
 # DoWell API Documentation
 
